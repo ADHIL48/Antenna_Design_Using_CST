@@ -1,9 +1,0 @@
-# Created by CST STUDIO SUITE 2018 0
-# On Tue Nov 10 21:52:45 2020
-# unit: meters
-# design frequency: -
-# Element	X	Y	Z	Magnitude	Phase	Phi	Theta	Gamma
-1,1	0	0	0	1	0	0	0	0
-1,2	0	0.081900000000000001	0	1	0	0	0	0
-2,1	0.059000000000000004	0	0	1	0	0	0	0
-2,2	0.059000000000000004	0.081900000000000001	0	1	0	0	0	0

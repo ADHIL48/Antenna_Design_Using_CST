@@ -1,6 +1,0 @@
-With MeshSettings
-     With .ItemMeshSettings ("solid$top:solid4")
-          .SetMeshType "All" 
-          .Set "Transform", "0.707107", "-0.707107", "0", "0.707107", "0.707107", "0", "0", "0", "1" 
-     End With
-End With
