@@ -1,0 +1,2 @@
+Array Scanning
+port:1[PAA_Amplitude(1),PAA_Phase(0)]+port:2[PAA_Amplitude(1),PAA_Phase(0)]+port:3[PAA_Amplitude(1),PAA_Phase(0)]+port:4[PAA_Amplitude(1),PAA_Phase(0)],[PAA_FA_FREQ]

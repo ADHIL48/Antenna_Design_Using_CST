@@ -1,0 +1,80 @@
+{
+    "parameters": [
+        {
+            "expr": "0.254",
+            "name": "diaThick",
+            "value": "0.254"
+        },
+        {
+            "expr": "0.035",
+            "name": "metalThick",
+            "value": "0.035"
+        },
+        {
+            "expr": "width+10",
+            "name": "x",
+            "value": "14.5"
+        },
+        {
+            "expr": "pitch*20",
+            "name": "y",
+            "value": "12"
+        },
+        {
+            "expr": "4.5",
+            "name": "width",
+            "value": "4.5"
+        },
+        {
+            "expr": "0.3",
+            "name": "dia",
+            "value": "0.3"
+        },
+        {
+            "expr": "0.6",
+            "name": "pitch",
+            "value": "0.6"
+        },
+        {
+            "expr": "1.5",
+            "name": "p",
+            "value": "1.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "Mw50",
+            "value": "0.5"
+        },
+        {
+            "expr": "0",
+            "name": "cap",
+            "value": "0"
+        },
+        {
+            "expr": "5.2",
+            "name": "res",
+            "value": "5.2"
+        },
+        {
+            "expr": "1.5",
+            "name": "padding",
+            "value": "1.5"
+        },
+        {
+            "expr": "2.6",
+            "name": "stub",
+            "value": "2.6"
+        },
+        {
+            "expr": "1.3",
+            "name": "radius",
+            "value": "1.3"
+        },
+        {
+            "expr": "2",
+            "name": "length",
+            "value": "2"
+        }
+    ],
+    "version": 1
+}

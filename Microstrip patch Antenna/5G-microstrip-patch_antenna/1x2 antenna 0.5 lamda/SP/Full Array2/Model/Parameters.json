@@ -1,0 +1,103 @@
+{
+    "parameters": [
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "wg * 1",
+            "name": "PAA_UC_DS1",
+            "value": "64.4"
+        },
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "lg * 1",
+            "name": "PAA_UC_DS2",
+            "value": "81.25"
+        },
+        {
+            "descr": "Unit cell geometry (System parameter)",
+            "expr": "90",
+            "name": "PAA_UC_ANGLE",
+            "value": "90"
+        },
+        {
+            "expr": "32.94",
+            "name": "wp",
+            "value": "32.94"
+        },
+        {
+            "expr": "64.4",
+            "name": "wg",
+            "value": "64.4"
+        },
+        {
+            "expr": "7.703",
+            "name": "wf",
+            "value": "7.703"
+        },
+        {
+            "expr": "3.851",
+            "name": "wc",
+            "value": "3.851"
+        },
+        {
+            "expr": "25",
+            "name": "lp",
+            "value": "25"
+        },
+        {
+            "expr": "81.25",
+            "name": "lg",
+            "value": "81.25"
+        },
+        {
+            "expr": "25.383",
+            "name": "lf",
+            "value": "25.383"
+        },
+        {
+            "expr": "8.128",
+            "name": "lc",
+            "value": "8.128"
+        },
+        {
+            "expr": "0.035",
+            "name": "ht",
+            "value": "0.035"
+        },
+        {
+            "expr": "2.5",
+            "name": "hs",
+            "value": "2.5"
+        },
+        {
+            "descr": "Unit cell scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_UC_THETA",
+            "value": "0"
+        },
+        {
+            "descr": "Unit cell scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_UC_PHI",
+            "value": "0"
+        },
+        {
+            "descr": "Full array scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_FA_SCANPHI",
+            "value": "0"
+        },
+        {
+            "descr": "Full array scan angle (System parameter)",
+            "expr": "0",
+            "name": "PAA_FA_SCANTHETA",
+            "value": "0"
+        },
+        {
+            "descr": "Full array operating frequency (System parameter)",
+            "expr": "3.6000000000000001",
+            "name": "PAA_FA_FREQ",
+            "value": "3.6000000000000001"
+        }
+    ],
+    "version": 1
+}

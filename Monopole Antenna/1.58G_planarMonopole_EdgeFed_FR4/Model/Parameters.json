@@ -1,0 +1,60 @@
+{
+    "parameters": [
+        {
+            "expr": "2",
+            "name": "width2",
+            "value": "2"
+        },
+        {
+            "expr": "10",
+            "name": "width",
+            "value": "10"
+        },
+        {
+            "expr": "0.5",
+            "name": "sp",
+            "value": "0.5"
+        },
+        {
+            "expr": "2.5",
+            "name": "move_port",
+            "value": "2.5"
+        },
+        {
+            "expr": "39.5",
+            "name": "length",
+            "value": "39.5"
+        },
+        {
+            "expr": "20",
+            "name": "gnd_w",
+            "value": "20"
+        },
+        {
+            "expr": "31.5",
+            "name": "gnd_h",
+            "value": "31.5"
+        },
+        {
+            "expr": "gnd_h+1",
+            "name": "gap",
+            "value": "32.5"
+        },
+        {
+            "expr": "95.24",
+            "name": "d",
+            "value": "95.24"
+        },
+        {
+            "expr": "4",
+            "name": "coax_out",
+            "value": "4"
+        },
+        {
+            "expr": "1.2",
+            "name": "coax_in",
+            "value": "1.2"
+        }
+    ],
+    "version": 1
+}

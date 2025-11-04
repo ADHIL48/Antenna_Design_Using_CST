@@ -1,0 +1,12 @@
+5
+3
+16
+Element (1,1)/MWSSCHEM1/component1:gndElement (1,1)/MWSSCHEM1/component1:feedElement (1,1)/MWSSCHEM1/component1:subsElement (2,1)/MWSSCHEM1/component1:gndElement (2,1)/MWSSCHEM1/component1:feedElement (2,1)/MWSSCHEM1/component1:subsElement (1,2)/MWSSCHEM1/component1:gndElement (1,2)/MWSSCHEM1/component1:feedElement (1,2)/MWSSCHEM1/component1:subsElement (2,2)/MWSSCHEM1/component1:gndElement (2,2)/MWSSCHEM1/component1:feedElement (2,2)/MWSSCHEM1/component1:subsport$port2port$port3port$port4port$port537
+1
+cut1:cu1_142
+1
+cut1:solid2_145
+1
+cut1:solid2_154
+1
+Element (1,1)/MWSSCHEM1/component1:feed_1

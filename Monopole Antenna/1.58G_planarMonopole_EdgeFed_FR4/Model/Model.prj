@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.0 - Sep 20 2018 - ACIS 28.0.2 -
+[Author]
+pengzy
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:1.58g_planarmonopole_edgefed_fr4.cst?dd02bda73ae38086525b1e5b9b029761?39858:numberofparameters=10:port=1>mode=1>zre=0>zim=0:::coax_in?coax_out?d?gap?gnd_h?gnd_w?length?sp?width?width2
+[Comment]

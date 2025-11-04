@@ -1,0 +1,22 @@
+Postprocessing Logfile 
+
+----------------------------------------------------------------------------------------
+Units settings: 
+
+  Dimensions: mm
+  Frequency:  GHz
+  Time:       ns
+
+----------------------------------------------------------------------------------------
+
+Template based postprocessing started at: 10:05 AM Tuesday, 04. November 2025
+
+  Error: The specified result item does not exist: "1D Results\S-Parameters\S1,1".
+  Evaluating 'S1,1_1D_ScaleAxis': 7 s
+  Error: The specified result item does not exist: "1D Results\S-Parameters\S2,1".
+  Evaluating 'S2,1_1D_ScaleAxis': 5 s
+
+  Total time: 12 s  ( = 0 h, 0 m, 12 s )
+
+Template based postprocessing finished at: 10:06 AM Tuesday, 04. November 2025
+----------------------------------------------------------------------------------------
