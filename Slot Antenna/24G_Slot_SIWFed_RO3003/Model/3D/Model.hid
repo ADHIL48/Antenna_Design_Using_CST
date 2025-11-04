@@ -1,0 +1,255 @@
+20100312
+[start]hidden_objects
+[end]hidden_objects
+[start]history_expert_mode
+[start]2017_2_10
+un-hide();
+[end]2017_2_10
+[end]history_expert_mode
+[start]history_fast_undo
+[start]undo_item
+[start]block_index
+8
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:solid2_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+11
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:via1_1"
+Solid.Delete "via:via1_10"
+Solid.Delete "via:via1_11"
+Solid.Delete "via:via1_12"
+Solid.Delete "via:via1_13"
+Solid.Delete "via:via1_14"
+Solid.Delete "via:via1_15"
+Solid.Delete "via:via1_2"
+Solid.Delete "via:via1_3"
+Solid.Delete "via:via1_4"
+Solid.Delete "via:via1_5"
+Solid.Delete "via:via1_6"
+Solid.Delete "via:via1_7"
+Solid.Delete "via:via1_8"
+Solid.Delete "via:via1_9"
+Solid.Delete "via:via2_1"
+Solid.Delete "via:via2_10"
+Solid.Delete "via:via2_11"
+Solid.Delete "via:via2_12"
+Solid.Delete "via:via2_13"
+Solid.Delete "via:via2_14"
+Solid.Delete "via:via2_15"
+Solid.Delete "via:via2_2"
+Solid.Delete "via:via2_3"
+Solid.Delete "via:via2_4"
+Solid.Delete "via:via2_5"
+Solid.Delete "via:via2_6"
+Solid.Delete "via:via2_7"
+Solid.Delete "via:via2_8"
+Solid.Delete "via:via2_9"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+13
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:via1_10"
+Solid.Delete "via:via1_11"
+Solid.Delete "via:via1_12"
+Solid.Delete "via:via1_13"
+Solid.Delete "via:via1_14"
+Solid.Delete "via:via1_15"
+Solid.Delete "via:via1_16"
+Solid.Delete "via:via1_17"
+Solid.Delete "via:via1_18"
+Solid.Delete "via:via1_19"
+Solid.Delete "via:via1_20"
+Solid.Delete "via:via1_21"
+Solid.Delete "via:via1_22"
+Solid.Delete "via:via1_23"
+Solid.Delete "via:via1_24"
+Solid.Delete "via:via1_25"
+Solid.Delete "via:via1_26"
+Solid.Delete "via:via1_27"
+Solid.Delete "via:via1_28"
+Solid.Delete "via:via1_29"
+Solid.Delete "via:via1_30"
+Solid.Delete "via:via1_31"
+Solid.Delete "via:via1_32"
+Solid.Delete "via:via1_33"
+Solid.Delete "via:via1_34"
+Solid.Delete "via:via1_35"
+Solid.Delete "via:via1_36"
+Solid.Delete "via:via1_37"
+Solid.Delete "via:via1_8"
+Solid.Delete "via:via1_9"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+14
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:via2_1"
+Solid.Delete "via:via2_10"
+Solid.Delete "via:via2_11"
+Solid.Delete "via:via2_12"
+Solid.Delete "via:via2_13"
+Solid.Delete "via:via2_14"
+Solid.Delete "via:via2_15"
+Solid.Delete "via:via2_16"
+Solid.Delete "via:via2_17"
+Solid.Delete "via:via2_18"
+Solid.Delete "via:via2_19"
+Solid.Delete "via:via2_2"
+Solid.Delete "via:via2_20"
+Solid.Delete "via:via2_21"
+Solid.Delete "via:via2_22"
+Solid.Delete "via:via2_23"
+Solid.Delete "via:via2_24"
+Solid.Delete "via:via2_25"
+Solid.Delete "via:via2_26"
+Solid.Delete "via:via2_27"
+Solid.Delete "via:via2_28"
+Solid.Delete "via:via2_29"
+Solid.Delete "via:via2_3"
+Solid.Delete "via:via2_30"
+Solid.Delete "via:via2_4"
+Solid.Delete "via:via2_5"
+Solid.Delete "via:via2_6"
+Solid.Delete "via:via2_7"
+Solid.Delete "via:via2_8"
+Solid.Delete "via:via2_9"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+15
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:solid2"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+16
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "via:solid2_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+20
+[end]block_index
+[start]command
+[end]command
+[start]content
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+21
+[end]block_index
+[start]command
+'@ define port: 1
+ (undo)
+[end]command
+[start]content
+Port.Delete "1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+0
+[end]delete_solids
+[end]undo_item
+[start]undo_item
+[start]block_index
+98
+[end]block_index
+[start]command
+[end]command
+[start]content
+Solid.Delete "metal:solid5_1"
+[end]content
+[start]recover_picks
+1
+[end]recover_picks
+[start]delete_solids
+1
+[end]delete_solids
+[end]undo_item
+[end]history_fast_undo
+[start]PortAndLumpedLabelState
+[start]ShowLabels
+1
+[end]ShowLabels
+[start]ShowLabelsShort
+1
+[end]ShowLabelsShort
+[start]ZoomDependPortLabels
+1
+[end]ZoomDependPortLabels
+[end]PortAndLumpedLabelState
+[start]adaption_criteria_store
+[end]adaption_criteria_store
