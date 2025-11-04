@@ -1,0 +1,40 @@
+{
+    "parameters": [
+        {
+            "expr": "2.5*10^9",
+            "name": "freq",
+            "value": "2500000000"
+        },
+        {
+            "expr": "3*10^11",
+            "name": "c0",
+            "value": "300000000000"
+        },
+        {
+            "expr": "c0/freq",
+            "name": "lam",
+            "value": "120"
+        },
+        {
+            "expr": "1.25",
+            "name": "r",
+            "value": "1.25"
+        },
+        {
+            "expr": "lam*0.21",
+            "name": "sp",
+            "value": "25.2"
+        },
+        {
+            "expr": "6.7",
+            "name": "s",
+            "value": "6.7"
+        },
+        {
+            "expr": "lam*0.41",
+            "name": "h",
+            "value": "49.2"
+        }
+    ],
+    "version": 1
+}
