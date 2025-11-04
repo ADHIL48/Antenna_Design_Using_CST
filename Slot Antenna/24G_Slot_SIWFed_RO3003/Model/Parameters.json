@@ -1,0 +1,130 @@
+{
+    "parameters": [
+        {
+            "expr": "0.254",
+            "name": "subThick",
+            "value": "0.254"
+        },
+        {
+            "expr": "0.035",
+            "name": "metalThick",
+            "value": "0.035"
+        },
+        {
+            "expr": "20",
+            "name": "x",
+            "value": "20"
+        },
+        {
+            "expr": "0.4",
+            "name": "dia",
+            "value": "0.4"
+        },
+        {
+            "expr": "1.5*dia",
+            "name": "pitch",
+            "value": "0.6"
+        },
+        {
+            "expr": "5",
+            "name": "width",
+            "value": "5"
+        },
+        {
+            "expr": "pitch*60",
+            "name": "y",
+            "value": "36"
+        },
+        {
+            "expr": "3.7",
+            "name": "slotW",
+            "value": "3.7"
+        },
+        {
+            "expr": "-3.2",
+            "name": "slotP",
+            "value": "-3.2"
+        },
+        {
+            "expr": "3/240*1000",
+            "name": "wavelength",
+            "value": "12.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d1",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d2",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d3",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d4",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d5",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d6",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d7",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d8",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d9",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d10",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d11",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d12",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d13",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d14",
+            "value": "0.5"
+        },
+        {
+            "expr": "0.5",
+            "name": "d15",
+            "value": "0.5"
+        }
+    ],
+    "version": 1
+}
