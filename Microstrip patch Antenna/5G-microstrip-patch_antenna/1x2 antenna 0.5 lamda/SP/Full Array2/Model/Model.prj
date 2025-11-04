@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.0 - Sep 20 2018 - ACIS 28.0.2 -
+[Author]
+AL JADD
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:full array2.cst?53545250115a92e22c587acf0ec9ec6c?16821:numberofparameters=16:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0::model.mif^3d.sab>5401dac38a509daf167aab65e0ba1c0b>90188:paa_fa_freq?paa_fa_scanphi?paa_fa_scantheta?paa_uc_angle?paa_uc_ds1?paa_uc_ds2?hs?ht?lc?lf?lg?lp?wc?wf?wg?wp
+[Comment]

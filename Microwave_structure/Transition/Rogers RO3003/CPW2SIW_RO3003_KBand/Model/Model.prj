@@ -1,0 +1,21 @@
+[Version]
+2
+[ProjectVersion]
+'# MWS Version: Version 2019.0 - Sep 20 2018 - ACIS 28.0.2 -
+[Author]
+rooki
+[Mesh Cells]
+
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Unavailable
+[Modeler Unique ID]
+5:cpw2siw_ro3003_kband.cst?fd84842bedb1c9bcd9b2cba19dcd415e?46191:numberofparameters=14:port=1>mode=1>zre=0>zim=0?port=2>mode=1>zre=0>zim=0:::mw50?dia?diathick?metalthick?p?pitch?ratio?ratio1?tempw?transl?transw?width?x?y
+[Comment]

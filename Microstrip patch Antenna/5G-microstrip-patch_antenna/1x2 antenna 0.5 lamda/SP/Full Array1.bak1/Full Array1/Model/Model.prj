@@ -1,0 +1,19 @@
+[Version]
+2
+[Author]
+AL JADD
+[Mesh Cells]
+470,120
+[Mesh Type]
+Hexahedral
+[Last Problem Type]
+High Frequency
+[Last Solver Type]
+HF Time Domain
+[Last Solver Type Abb]
+t
+[Results]
+Time Domain: S-Parameter
+[Modeler Unique ID]
+5:full array1.cst?5bd2910867cfd2813c2372bf1d027844?28176:numberofparameters=8:port=1>mode=1>zre=0>zim=0::model.mif^3d.sab>418c31e793a033c481a355f1db6b20a4>73736:paa_fa_freq?hs?ht?lg?wg?paa_uc_angle?paa_uc_ds2?paa_uc_ds1
+[Comment]

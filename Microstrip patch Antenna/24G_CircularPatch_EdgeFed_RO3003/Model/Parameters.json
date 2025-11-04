@@ -1,0 +1,82 @@
+{
+    "parameters": [
+        {
+            "expr": "0.254",
+            "name": "S_thick",
+            "value": "0.254"
+        },
+        {
+            "expr": "0.035",
+            "name": "M_thick",
+            "value": "0.035"
+        },
+        {
+            "expr": "20",
+            "name": "S_x",
+            "value": "20"
+        },
+        {
+            "expr": "20",
+            "name": "S_y",
+            "value": "20"
+        },
+        {
+            "expr": "length",
+            "name": "width",
+            "value": "4.14"
+        },
+        {
+            "expr": "4.14",
+            "name": "length",
+            "value": "4.14"
+        },
+        {
+            "descr": "0.58",
+            "expr": "0.58",
+            "name": "W_50ohm",
+            "value": "0.58"
+        },
+        {
+            "expr": "1.64",
+            "name": "insert",
+            "value": "1.64"
+        },
+        {
+            "expr": "W_50ohm+0.4",
+            "name": "gap",
+            "value": "0.98"
+        },
+        {
+            "expr": "0.2",
+            "name": "W_100ohm",
+            "value": "0.2"
+        },
+        {
+            "descr": "0.3",
+            "expr": "0.3",
+            "name": "Wantenna",
+            "value": "0.3"
+        },
+        {
+            "expr": "0.6",
+            "name": "W_35ohm",
+            "value": "0.6"
+        },
+        {
+            "expr": "6.25",
+            "name": "half_wl",
+            "value": "6.25"
+        },
+        {
+            "expr": "0.6",
+            "name": "cut",
+            "value": "0.6"
+        },
+        {
+            "expr": "2.5-insert",
+            "name": "ql",
+            "value": "0.86"
+        }
+    ],
+    "version": 1
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SchematicTopology Version="2.3" Seed="1" Grid="25">
+    <BasePath>C:/Users/moham/OneDrive - Dr.MAHALINGAM COLLEGE OF ENGINEERING AND TECHNOLOGY/Documents/Antenna Design Using CST Software/Microstrip patch Antenna/24G_CircularPatch_EdgeFed_RO3003/Model/DS</BasePath>
+    <Block ForeignId="315178290" Id="1" Class="MWSSCHEM">
+        <Size Height="150" Width="150"/>
+        <Pins>
+            <Pin X="-75" Y="0" Index="0" BlockPosition="Left">
+                <Label>1</Label>
+            </Pin>
+        </Pins>
+        <Image Scale="AutoFit" FileName="../3D/Model.dib"/>
+        <Pos X="75" Y="75"/>
+        <ToolTip>Untitled_0.cst MWSSCHEM1</ToolTip>
+    </Block>
+</SchematicTopology>

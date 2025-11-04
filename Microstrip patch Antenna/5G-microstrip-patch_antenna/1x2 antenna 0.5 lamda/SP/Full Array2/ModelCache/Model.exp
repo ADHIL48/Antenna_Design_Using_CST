@@ -1,0 +1,17 @@
+@CACHEFILEVERSION 2
+@DOUBLE
+PAA_Amplitude(1#)
+1
+PAA_FA_FREQ
+3.6
+PAA_Phase( - 360.0# * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(0#)) * CosD(PAA_FA_SCANPHI) + (PAAy(0#)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI)
+-0
+PAA_Phase( - 360.0# * PAA_FA_FREQ / clight * SinD(PAA_FA_SCANTHETA) * ((PAAx(1#)) * CosD(PAA_FA_SCANPHI) + (PAAy(1#)) * SinD(PAA_FA_SCANPHI)) * Units.GetGeometryUnitToSI * Units.GetFrequencyUnitToSI)
+-0
+PAA_UC_ANGLE
+90
+PAA_UC_DS1
+64.4
+PAA_UC_DS2
+81.25
+@LONG

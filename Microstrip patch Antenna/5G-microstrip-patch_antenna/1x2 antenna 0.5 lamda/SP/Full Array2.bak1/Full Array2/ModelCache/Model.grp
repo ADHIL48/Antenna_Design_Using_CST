@@ -1,0 +1,19 @@
+20110628
+<GROUP>Excluded from Bounding Box
+<GROUPTYPE>1
+<GROUP>Excluded from Simulation
+<GROUPTYPE>0
+<GROUP>MWSSCHEM1
+<GROUPTYPE>2
+<ENTITY>Element (1,1)/MWSSCHEM1/component1:ground
+<TYPE>SOLID
+<ENTITY>Element (1,1)/MWSSCHEM1/component1:patch1
+<TYPE>SOLID
+<ENTITY>Element (1,1)/MWSSCHEM1/component1:subs
+<TYPE>SOLID
+<ENTITY>Element (1,2)/MWSSCHEM1/component1:ground
+<TYPE>SOLID
+<ENTITY>Element (1,2)/MWSSCHEM1/component1:patch1
+<TYPE>SOLID
+<ENTITY>Element (1,2)/MWSSCHEM1/component1:subs
+<TYPE>SOLID
